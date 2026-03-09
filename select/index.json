@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ネバーランド",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-09T01:13:36.923935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "Luna Haruna",
+      "has_synced": false,
+      "path": "select/01_ネバーランド_Luna_Haruna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "Haruna Luna",
+      "has_synced": false,
+      "path": "select/02_ネバーランド_Haruna_Luna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/03_ネバーランド_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネバーランド (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/04_ネバーランド_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "day after tomorrow",
+      "has_synced": false,
+      "path": "select/05_ネバーランド_day_after_tomorrow.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/06_ネバーランド_春奈るな.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ネバーランド (2013.04.05 ライブハウスツアー\"FUN！FUN！FUN！\"/恵比寿LIQUIDROOM)",
+      "artist": "andymori",
+      "has_synced": false,
+      "path": "select/07_ネバーランド_(2013.04.05_ライブハウスツアー_FUN!FUN!FUN!_恵比寿LIQUIDROOM)_andymori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/08_ネバーランド_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/09_ネバーランド_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ネバーランド - Neverland",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/10_ネバーランド_-_Neverland_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ネバーランド",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/11_ネバーランド_DECO∗27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネバーランド",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ネバーランド_DECO_27.txt"
+    }
+  ]
+}
